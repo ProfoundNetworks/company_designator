@@ -1,0 +1,116 @@
+---
+Aktiengesellschaft:
+  abbr: AG
+  lang: de
+Besloten vennootschap:
+  abbr: B.V.
+  lang: nl
+Chartered:
+  abbr: Chtd.
+  lang: en
+Company:
+  abbr:
+    - Co.
+    - and Co.
+  lang: en
+Cooperative:
+  abbr:
+    - Coop.
+    - Co-op.
+  lang: en
+Corporation:
+  abbr: Corp.
+  lang: en
+"Gesellschaft mit beschränkter Haftung":
+  abbr: GmbH
+  lang: de
+Incorporated:
+  abbr: Inc.
+  lang: en
+"Incorporée":
+  abbr: Inc.
+  lang: fr
+Kommanditgesellschaft auf Aktien:
+  abbr: KGaA
+  lang: de
+Limited:
+  abbr: Ltd.
+  lang: en
+Limited Company:
+  abbr:
+    - L.C.
+    - Ltd. Co.
+  lang: en
+Limited Partnership:
+  abbr: L.P.
+  lang: en
+Limited Liability Company:
+  abbr: L.L.C.
+  lang: en
+Limited Liability Partnership:
+  abbr: L.L.P.
+  lang: en
+Limited Liability Limited Partnership:
+  abbr: L.L.L.P.
+  lang: en
+'Limitée':
+  abbr: Ltée
+  lang: fr
+Naamloze vennootschap:
+  abbr: N.V.
+  lang: nl
+'Osakeyhtiö':
+  abbr: Oy
+  lang: fi
+'Julkinen osakeyhtiö':
+  abbr: Oyj
+  lang: fi
+Perseroan Terbatas:
+  abbr: PT
+  lang: id
+Perseroan Terbatas Terbuka:
+  abbr: PT Tbk
+  lang: id
+Private Limited Company:
+  abbr: Pvt. Ltd.
+  lang: en
+Professional Corporation:
+  abbr: P.C.
+  lang: en
+Proprietary Limited:
+  abbr:
+    - Pty. Ltd.
+    - P/L
+  lang: en
+'Sociedad Anónima':
+  abbr: S.A.
+  lang: es
+'Sociedad Anónima Deportiva':
+  abbr: S.A.D.
+  lang: es
+'Società per Azioni':
+  abbr: S.p.A.
+  lang: it
+'Società a responsabilità limitata':
+  abbr: S.r.l.
+  lang: it
+'Società cooperativa a responsabilità limitata':
+  abbr: S.c.r.l.
+  lang: it
+'Société à responsabilité limitée':
+  abbr:
+    - SARL
+    - SàRL
+  lang: fr
+'Société anonyme':
+  abbr: SA
+  lang: fr
+'Société par actions de régime fédéral':
+  abbr: S.A.R.F.
+  lang: fr
+'Société par actions simplifiée':
+  abbr: SAS
+  lang: fr
+'Společnost s ručením omezeným':
+  abbr: s.r.o.
+  lang: cs
