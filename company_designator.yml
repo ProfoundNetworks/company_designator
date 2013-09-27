@@ -37,6 +37,7 @@ Commanditaire vennootschap:
 Company:
   abbr:
     - Co.
+    - '& Co.'
     - and Co.
   lang: en
 Cooperative:
@@ -66,7 +67,9 @@ eingetragene Verein:
   abbr: GbR
   lang: de
 Incorporated:
-  abbr: Inc.
+  abbr:
+    - Inc.
+    - Company Inc.
   lang: en
 "Incorporée":
   abbr: Inc.
@@ -75,20 +78,27 @@ Incorporated:
   abbr: Oyj
   lang: fi
 Kabushiki Kaisha:
-  abbr: K.K.
+  abbr:
+    - K.K.
+    - Corporation K.K.
   lang: ja
 Kommanditgesellschaft:
   abbr:
     - KG
     - 'GmbH & Co. KG'
+    - 'GmbH und Co. KG'
     - 'mbH & Co. KG'
+    - 'mbH und Co. KG'
     - 'AG & Co. KG'
+    - 'AG und Co. KG'
   lang: de
 Kommanditgesellschaft auf Aktien:
   abbr:
     - KGaA
     - 'GmbH & Co. KGaA'
+    - 'GmbH und Co. KGaA'
     - 'AG & Co. KGaA'
+    - 'AG und Co. KGaA'
   lang: de
 Kommanditselskab:
   abbr: 'K/S'
@@ -100,9 +110,15 @@ Limited Company:
   abbr:
     - L.C.
     - Ltd. Co.
+    - Ltd. Company
+    - Co. Ltd.
+    - Company Ltd.
+    - Company Limited
   lang: en
 Limited Partnership:
-  abbr: L.P.
+  abbr:
+    - L.P.
+    - Company L.P.
   lang: en
 Limited Liability Company:
   abbr: L.L.C.
@@ -122,7 +138,7 @@ Maatschap:
 Naamloze vennootschap:
   abbr:
     - N.V.
-    - NV Nv
+    - N.V. Nv
   lang: nl
 offene Gesellschaft:
   abbr: OG
@@ -131,6 +147,7 @@ offene Handelsgesellschaft:
   abbr:
     - OHG
     - 'GmbH & Co OHG'
+    - 'GmbH und Co OHG'
   lang: de
 'Osakeyhtiö':
   abbr: Oy
@@ -178,7 +195,9 @@ Proprietary Limited:
   abbr: S.L.N.E.
   lang: es
 'Società per Azioni':
-  abbr: S.p.A.
+  abbr:
+    - S.p.A.
+    - Corporation S.p.A.
   lang: it
 'Società a responsabilità limitata':
   abbr: S.r.l.
