@@ -29,8 +29,8 @@ for my $key (sort keys %$data) {
   if (my $abbr_set = $data->{$key}->{abbr}) {
     my @abbr = ref $abbr_set ? @$abbr_set : ( $abbr_set );
     for my $abbr (@abbr) {
-      if ($abbr =~ m/\./) {
-        ok(substr($abbr,-1) eq '.', "abbr for '$key' contains period and terminates with one: $abbr");
+      if ($abbr =~ m/\.\w/) {
+        ok(substr($abbr,-1) eq '.', "abbr for '$key' contains embedded period and terminates with one: $abbr");
       }
     }
   }

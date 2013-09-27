@@ -1,13 +1,39 @@
 ---
+Aksjeselskap:
+  abbr: AS
+  lang: no
+Aktiebolag:
+  abbr: AB
+  lang: se
 Aktiengesellschaft:
   abbr: AG
   lang: de
+Aktieselskab:
+  abbr:
+    - 'A/S'
+    - AS
+  lang: da
+Allmennaksjeselskap:
+  abbr: ASA
+  lang: no
+Anpartsselskab:
+  abbr: ApS
+  lang: da
+association sans but lucratif:
+  abbr: ASBL
+  lang: fr
 Besloten vennootschap:
   abbr: B.V.
+  lang: nl
+'Besloten vennootschap met beperkte aansprakelijkheid':
+  abbr: B.V.B.A.
   lang: nl
 Chartered:
   abbr: Chtd.
   lang: en
+Commanditaire vennootschap:
+  abbr: C.V.
+  lang: nl
 Company:
   abbr:
     - Co.
@@ -21,8 +47,23 @@ Cooperative:
 Corporation:
   abbr: Corp.
   lang: en
-"Gesellschaft mit beschränkter Haftung":
-  abbr: GmbH
+eingetragene Genossenschaft:
+  abbr: e.G.
+  lang: de
+eingetragene Verein:
+  abbr: e.V.
+  lang: de
+'Eenpersoons besloten vennootschap met beperkte aansprakelijkheid':
+  abbr: E.B.V.B.A.
+  lang: nl
+'Gesellschaft mit beschränkter Haftung':
+  abbr:
+    - GmbH
+    - Ges.m.b.H.
+    - mbH
+  lang: de
+'Gesellschaft bürgerlichen Rechts':
+  abbr: GbR
   lang: de
 Incorporated:
   abbr: Inc.
@@ -30,9 +71,28 @@ Incorporated:
 "Incorporée":
   abbr: Inc.
   lang: fr
-Kommanditgesellschaft auf Aktien:
-  abbr: KGaA
+'Julkinen osakeyhtiö':
+  abbr: Oyj
+  lang: fi
+Kabushiki Kaisha:
+  abbr: K.K.
+  lang: ja
+Kommanditgesellschaft:
+  abbr:
+    - KG
+    - 'GmbH & Co. KG'
+    - 'mbH & Co. KG'
+    - 'AG & Co. KG'
   lang: de
+Kommanditgesellschaft auf Aktien:
+  abbr:
+    - KGaA
+    - 'GmbH & Co. KGaA'
+    - 'AG & Co. KGaA'
+  lang: de
+Kommanditselskab:
+  abbr: 'K/S'
+  lang: da
 Limited:
   abbr: Ltd.
   lang: en
@@ -54,17 +114,30 @@ Limited Liability Limited Partnership:
   abbr: L.L.L.P.
   lang: en
 'Limitée':
-  abbr: Ltée
+  abbr: 'Ltée'
   lang: fr
-Naamloze vennootschap:
-  abbr: N.V.
+Maatschap:
+  abbr: Mts
   lang: nl
+Naamloze vennootschap:
+  abbr:
+    - N.V.
+    - NV Nv
+  lang: nl
+offene Gesellschaft:
+  abbr: OG
+  lang: de
+offene Handelsgesellschaft:
+  abbr:
+    - OHG
+    - 'GmbH & Co OHG'
+  lang: de
 'Osakeyhtiö':
   abbr: Oy
   lang: fi
-'Julkinen osakeyhtiö':
-  abbr: Oyj
-  lang: fi
+Partnerschaftsgesellschaft:
+  abbr: PartG
+  lang: de
 Perseroan Terbatas:
   abbr: PT
   lang: id
@@ -72,21 +145,37 @@ Perseroan Terbatas Terbuka:
   abbr: PT Tbk
   lang: id
 Private Limited Company:
-  abbr: Pvt. Ltd.
+  abbr:
+    - Pte. Ltd.
+    - Pvt. Ltd.
   lang: en
 Professional Corporation:
   abbr: P.C.
   lang: en
 Proprietary Limited:
   abbr:
+    - Pty. Limited.
     - Pty. Ltd.
     - P/L
   lang: en
 'Sociedad Anónima':
-  abbr: S.A.
+  abbr:
+    - S.A.
   lang: es
 'Sociedad Anónima Deportiva':
   abbr: S.A.D.
+  lang: es
+'Sociedad de Resposabilidad Limitada':
+  abbr: S.R.L.
+  lang: es
+'Sociedad Limitada':
+  abbr: S.L.
+  lang: es
+'Sociedad Limitada Laboral':
+  abbr: S.L.L.
+  lang: es
+'Sociedad Limitada Nueva Empresa':
+  abbr: S.L.N.E.
   lang: es
 'Società per Azioni':
   abbr: S.p.A.
@@ -111,6 +200,21 @@ Proprietary Limited:
 'Société par actions simplifiée':
   abbr: SAS
   lang: fr
+'Société privée à responsabilité limitée':
+  abbr: S.P.R.L.
+  lang: fr
+'Société privée à responsabilité limitée unipersonnelle':
+  abbr: S.P.R.L.U.
+  lang: fr
 'Společnost s ručením omezeným':
   abbr: s.r.o.
   lang: cs
+Vereniging zonder winstoogmerk:
+  abbr: VZW
+  lang: nl
+Vereinigung ohne Gewinnerzielungsabsicht:
+  abbr: VoG
+  lang: de
+Vennootschap onder firma:
+  abbr: V.O.F.
+  lang: nl
