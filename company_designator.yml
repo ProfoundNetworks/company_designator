@@ -171,9 +171,11 @@ Professional Corporation:
   lang: en
 Proprietary Limited:
   abbr:
-    - Pty. Limited.
     - Pty. Ltd.
     - P/L
+    - Pty. Limited.
+    - (Pty.) Ltd.
+    - Co. (Pty.) Ltd.
   lang: en
 'Sociedad Anónima':
   abbr:
