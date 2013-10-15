@@ -6,6 +6,10 @@ use YAML qw(LoadFile);
 use Locales;
 use Data::Dump qw(dd pp dump);
 
+my %embedded_period_exception = map { $_ => 1 }
+  'N.V. Nv',
+;
+
 # Allow utf8 in output
 binmode(\*STDOUT, ':utf8');
 my $builder = Test::More->builder;
@@ -29,6 +33,7 @@ for my $key (sort keys %$data) {
   if (my $abbr_set = $data->{$key}->{abbr}) {
     my @abbr = ref $abbr_set ? @$abbr_set : ( $abbr_set );
     for my $abbr (@abbr) {
+      next if $embedded_period_exception{$abbr};
       if ($abbr =~ m/\.\w/) {
         ok(substr($abbr,-1) eq '.', "abbr for '$key' contains embedded period and terminates with one: $abbr");
       }
