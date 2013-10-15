@@ -22,6 +22,9 @@ Anpartsselskab:
 association sans but lucratif:
   abbr: ASBL
   lang: fr
+Berhad:
+  abbr: Bhd.
+  lang: ms
 Besloten vennootschap:
   abbr: B.V.
   lang: nl
@@ -48,8 +51,20 @@ Cooperative:
 Corporation:
   abbr: Corp.
   lang: en
+Cwmni Cyfyngedig Cyhoeddus:
+  abbr: Ccc
+  lang: cy
+Cyfyngedig:
+  abbr: Cyf
+  lang: cy
 eingetragene Genossenschaft:
   abbr: e.G.
+  lang: de
+eingetragener Kaufmann:
+  abbr: e.K.
+  lang: de
+eingetragenes Einzelunternehmen:
+  abbr: e.U.
   lang: de
 eingetragene Verein:
   abbr: e.V.
@@ -91,6 +106,7 @@ Kommanditgesellschaft:
     - 'mbH und Co. KG'
     - 'AG & Co. KG'
     - 'AG und Co. KG'
+    - 'Ltd. & Co. KG'
   lang: de
 Kommanditgesellschaft auf Aktien:
   abbr:
@@ -104,7 +120,8 @@ Kommanditselskab:
   abbr: 'K/S'
   lang: da
 Limited:
-  abbr: Ltd.
+  abbr:
+    - Ltd.
   lang: en
 Limited Company:
   abbr:
@@ -112,6 +129,7 @@ Limited Company:
     - Ltd. Co.
     - Ltd. Company
     - Co. Ltd.
+    - Co.,Ltd.
     - Company Ltd.
     - Company Limited
   lang: en
@@ -169,6 +187,9 @@ Private Limited Company:
 Professional Corporation:
   abbr: P.C.
   lang: en
+Professional Limited Liability Company:
+  abbr: PLLC
+  lang: en
 Proprietary Limited:
   abbr:
     - Pty. Ltd.
@@ -177,19 +198,59 @@ Proprietary Limited:
     - (Pty.) Ltd.
     - Co. (Pty.) Ltd.
   lang: en
+'Przedsiębiorstwo Państwowe':
+  abbr: P.P.
+  lang: pl
+Public Limited Company:
+  abbr: plc
+  lang: en
+Sendirian Berhad:
+  abbr: Sdn. Bhd.
+  lang: ms
+Single Member Private Limited Company:
+  abbr: SM Pte. Ltd.
+  lang: en
 'Sociedad Anónima':
   abbr:
     - S.A.
+    - S.A. de C.V.
   lang: es
 'Sociedad Anónima Deportiva':
   abbr: S.A.D.
   lang: es
-'Sociedad de Resposabilidad Limitada':
-  abbr: S.R.L.
+Sociedad en Comandita Simple:
+  abbr:
+    - S. en C.
+    - S. en C. de C.V.
   lang: es
-'Sociedad Limitada':
+Sociedad en Comandita por Acciones:
+  abbr:
+    - S. en C. por A.
+    - S. en C. por A. de C.V.
+  lang: es
+'Sociedad de Resposabilidad Limitada':
+  abbr:
+    - S.R.L.
+    - S.R.L. de C.V.
+    - S. de R.L.
+    - S. de R.L. de C.V.
+  lang: es
+Sociedad en Nombre Colectivo:
+  abbr:
+    - 'y compañía'
+    - 'y compañía de C.V.'
+    - 'y sucesores'
+    - 'y sucesores de C.V.'
+  lang: es
+Sociedad Limitada:
   abbr: S.L.
   lang: es
+'Sociedade anônima':
+  abbr: S.A.
+  lang: pt
+'Sociedade limitada':
+  abbr: Ltda.
+  lang: pt
 'Sociedad Limitada Laboral':
   abbr: S.L.L.
   lang: es
@@ -209,11 +270,17 @@ Proprietary Limited:
   lang: it
 'Société à responsabilité limitée':
   abbr:
-    - SARL
+    - S.A.R.L.
     - SàRL
   lang: fr
 'Société anonyme':
   abbr: SA
+  lang: fr
+'Société commerciale canadienne':
+  abbr: S.C.C.
+  lang: fr
+'Société en commandite simple':
+  abbr: SECS
   lang: fr
 'Société par actions de régime fédéral':
   abbr: S.A.R.F.
@@ -230,6 +297,30 @@ Proprietary Limited:
 'Společnost s ručením omezeným':
   abbr: s.r.o.
   lang: cs
+'spółka akcyjna':
+  abbr: S.A.
+  lang: pl
+'spółka cywilna':
+  abbr: s.c.
+  lang: pl
+'spółka jawna':
+  abbr: sp.j.
+  lang: pl
+'spółka komandytowa':
+  abbr: Sp.k.
+  lang: pl
+'spółka komandytowo-akcyjna':
+  abbr: S.K.A.
+  lang: pl
+'spółka partnerska':
+  abbr: sp.p.
+  lang: pl
+'spółka z ograniczoną odpowiedzialnością':
+  abbr:
+    - Sp. z o.o.
+    - Sp. z o.o. Sp.k.
+    - Sp. z o.o. S.K.A.
+  lang: pl
 Vereniging zonder winstoogmerk:
   abbr: VZW
   lang: nl
