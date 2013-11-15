@@ -43,6 +43,9 @@ Company:
     - '& Co.'
     - and Co.
   lang: en
+Cooperativa de Responsabilidade Limitada:
+  abbr: CRL
+  lang: pt
 Cooperative:
   abbr:
     - Coop.
@@ -84,6 +87,7 @@ eingetragene Verein:
 Incorporated:
   abbr:
     - Inc.
+    - Co. Inc.
     - Company Inc.
   lang: en
 "Incorporée":
@@ -119,6 +123,9 @@ Kommanditgesellschaft auf Aktien:
 Kommanditselskab:
   abbr: 'K/S'
   lang: da
+Limitada:
+  abbr: Lda.
+  lang: pt
 Limited:
   abbr:
     - Ltd.
@@ -247,6 +254,12 @@ Sociedad Limitada:
   lang: es
 'Sociedade anônima':
   abbr: S.A.
+  lang: pt
+'Sociedade Fechada':
+  abbr: S.F.
+  lang: pt
+'Sociedade Gestora de Participações Sociais':
+  abbr: SGPS
   lang: pt
 'Sociedade limitada':
   abbr: Ltda.
