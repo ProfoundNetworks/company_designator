@@ -84,6 +84,13 @@ eingetragene Verein:
 'Gesellschaft bürgerlichen Rechts':
   abbr: GbR
   lang: de
+'Государственное унитарное предприятие':
+  abbr:
+    - ГП
+    - GP
+    - ГУП
+    - GUP
+  lang: ru
 Incorporated:
   abbr:
     - Inc.
@@ -93,6 +100,11 @@ Incorporated:
 "Incorporée":
   abbr: Inc.
   lang: fr
+'Индивидуальный предприниматель':
+  abbr:
+    - ИП
+    - IP
+  lang: ru
 'Julkinen osakeyhtiö':
   abbr: Oyj
   lang: fi
@@ -165,6 +177,11 @@ Naamloze vennootschap:
     - N.V.
     - N.V. Nv
   lang: nl
+'Общество с ограниченной ответственностью':
+  abbr:
+    - ООО
+    - OOO
+  lang: ru
 offene Gesellschaft:
   abbr: OG
   lang: de
@@ -177,6 +194,11 @@ offene Handelsgesellschaft:
 'Osakeyhtiö':
   abbr: Oy
   lang: fi
+'Открытое акционерное общество':
+  abbr:
+    - ОАО
+    - OAO
+  lang: ru
 Partnerschaftsgesellschaft:
   abbr: PartG
   lang: de
@@ -343,3 +365,8 @@ Vereinigung ohne Gewinnerzielungsabsicht:
 Vennootschap onder firma:
   abbr: V.O.F.
   lang: nl
+'Закрытое акционерное общество':
+  abbr:
+    - ЗАО
+    - ZAO
+  lang: ru
