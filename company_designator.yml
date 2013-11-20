@@ -31,8 +31,8 @@ Besloten vennootschap:
 'Besloten vennootschap met beperkte aansprakelijkheid':
   abbr: B.V.B.A.
   lang: nl
-'betéti társasá':
-  abbr: bt.
+'Betéti Társasá':
+  abbr: Bt.
   lang: hu
 Chartered:
   abbr: Chtd.
@@ -63,10 +63,10 @@ Cwmni Cyfyngedig Cyhoeddus:
 Cyfyngedig:
   abbr: Cyf
   lang: cy
-'egyéni cég':
+'Egyéni Cég':
   abbr: e.c.
   lang: hu
-'egyéni vállalkozó':
+'Egyéni Vállalkozó':
   abbr: e.v.
   lang: hu
 eingetragene Genossenschaft:
@@ -150,17 +150,19 @@ Kommanditgesellschaft auf Aktien:
 Kommanditselskab:
   abbr: 'K/S'
   lang: da
-'korlátolt felelősségű társaság':
-  abbr: kft.
+'Korlátolt Felelősségű Társaság':
+  abbr: Kft.
   lang: hu
-'közhasznú társaság':
-  abbr: kht.
+'Közhasznú Társaság':
+  abbr:
+    - Kht.
+    - Nonprofit Kft.
   lang: hu
-'közkereseti társaság':
-  abbr: kkt.
+'Közkereseti Társaság':
+  abbr: Kkt.
   lang: hu
-'közös vállalat':
-  abbr: kv.
+'Közös Vállalat':
+  abbr: Kv.
   lang: hu
 Limitada:
   abbr: Lda.
@@ -204,8 +206,8 @@ Naamloze vennootschap:
     - N.V.
     - N.V. Nv
   lang: nl
-'nyilvánosan működő részvénytársaság':
-  abbr: nyrt.
+'Nyilvánosan Működő Részvénytársaság':
+  abbr: Nyrt.
   lang: hu
 'Общество с ограниченной ответственностью':
   abbr:
@@ -266,8 +268,8 @@ Proprietary Limited:
 Public Limited Company:
   abbr: plc
   lang: en
-'részvénytársaság':
-  abbr: rt.
+'Részvénytársaság':
+  abbr: Rt.
   lang: hu
 'sameignarfélag':
   abbr: sf.
@@ -412,6 +414,6 @@ Vennootschap onder firma:
     - ЗАО
     - ZAO
   lang: ru
-'zártkörűen működő részvénytársaság':
-  abbr: zrt.
+'Zártkörűen Működő Részvénytársaság':
+  abbr: Zrt.
   lang: hu
