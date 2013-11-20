@@ -72,6 +72,9 @@ eingetragenes Einzelunternehmen:
 eingetragene Verein:
   abbr: e.V.
   lang: de
+'einkahlutafélag':
+  abbr: ehf.
+  lang: is
 'Eenpersoons besloten vennootschap met beperkte aansprakelijkheid':
   abbr: E.B.V.B.A.
   lang: nl
@@ -91,6 +94,9 @@ eingetragene Verein:
     - ГУП
     - GUP
   lang: ru
+'hlutafélag':
+  abbr: hf.
+  lang: is
 Incorporated:
   abbr:
     - Inc.
@@ -191,6 +197,9 @@ offene Handelsgesellschaft:
     - 'GmbH & Co OHG'
     - 'GmbH und Co OHG'
   lang: de
+'opinbert hlutafélag':
+  abbr: ohf.
+  lang: is
 'Osakeyhtiö':
   abbr: Oy
   lang: fi
@@ -233,12 +242,18 @@ Proprietary Limited:
 Public Limited Company:
   abbr: plc
   lang: en
+'sameignarfélag':
+  abbr: sf.
+  lang: is
 Sendirian Berhad:
   abbr: Sdn. Bhd.
   lang: ms
 Single Member Private Limited Company:
   abbr: SM Pte. Ltd.
   lang: en
+'sjálfseignarstofnun':
+  abbr: ses.
+  lang: is
 'Sociedad Anónima':
   abbr:
     - S.A.
