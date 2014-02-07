@@ -409,12 +409,6 @@ Sociedad Limitada Nueva Empresa:
 'Sociedade limitada':
   abbr: Ltda.
   lang: pt
-'Sociedad Limitada Laboral':
-  abbr: S.L.L.
-  lang: es
-'Sociedad Limitada Nueva Empresa':
-  abbr: S.L.N.E.
-  lang: es
 'Società per Azioni':
   abbr:
     - S.p.A.
