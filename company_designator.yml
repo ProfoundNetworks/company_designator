@@ -187,7 +187,9 @@ Limited Partnership:
     - Company L.P.
   lang: en
 Limited Liability Company:
-  abbr: L.L.C.
+  abbr:
+    - L.L.C.
+    - ASC L.L.C.
   lang: en
 Limited Liability Partnership:
   abbr: L.L.P.
