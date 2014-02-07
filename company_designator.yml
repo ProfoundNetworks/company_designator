@@ -16,6 +16,12 @@ Aktieselskab:
 Allmennaksjeselskap:
   abbr: ASA
   lang: no
+'Anonim Ortaklık':
+  abbr: A.O.
+  lang: tr
+'Anonim Şirket':
+  abbr: 'A.Ş.'
+  lang: tr
 Anpartsselskab:
   abbr: ApS
   lang: da
@@ -109,6 +115,9 @@ Handelsbolag:
 'hlutafélag':
   abbr: hf.
   lang: is
+'Halka Açık Anonim Ortaklık':
+  abbr: HAAO
+  lang: tr
 Incorporated:
   abbr:
     - Inc.
@@ -134,6 +143,12 @@ Kabushiki Kaisha:
 Kollektivgesellschaft:
   abbr: KolG
   lang: de
+'Kolektif Şirket':
+  abbr: 'Koll. Şti.'
+  lang: tr
+'Komandit Şirket':
+  abbr: 'Kom. Şti'
+  lang: tr
 Kommanditbolag:
   abbr: KB
   lang: se
@@ -162,6 +177,9 @@ Kommanditgesellschaft auf Aktien:
 Kommanditselskab:
   abbr: 'K/S'
   lang: da
+'Kooperatif Şirket':
+  abbr: Koop.
+  lang: tr
 'Korlátolt Felelősségű Társaság':
   abbr: Kft.
   lang: hu
@@ -193,6 +211,14 @@ Limited Company:
     - Company Ltd.
     - Company Limited
   lang: en
+'Limited Ortaklık':
+  abbr: L.O.
+  lang: tr
+'Limited Şirket':
+  abbr:
+    - 'Ltd. Şti.'
+    - 'L.Ş.'
+  lang: tr
 Limited Partnership:
   abbr:
     - L.P.
