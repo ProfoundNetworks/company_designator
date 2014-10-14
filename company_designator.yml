@@ -309,7 +309,9 @@ Proprietary Limited:
   abbr: P.P.
   lang: pl
 Public Limited Company:
-  abbr: plc
+  abbr:
+    - plc
+    - p.l.c.
   lang: en
 'Részvénytársaság':
   abbr: Rt.
