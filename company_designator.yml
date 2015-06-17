@@ -1,7 +1,7 @@
 ---
 Aksjeselskap:
   abbr: AS
-  lang: no
+  lang: "no"
 Aktiebolag:
   abbr: AB
   lang: se
@@ -15,7 +15,7 @@ Aktieselskab:
   lang: da
 Allmennaksjeselskap:
   abbr: ASA
-  lang: no
+  lang: "no"
 'Anonim Ortaklık':
   abbr: A.O.
   lang: tr
