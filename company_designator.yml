@@ -246,6 +246,10 @@ Naamloze vennootschap:
     - N.V.
     - N.V. Nv
   lang: nl
+National Association:
+  abbr:
+    - N.A.
+  lang: en
 No Liability:
   abbr: NL
   lang: en
