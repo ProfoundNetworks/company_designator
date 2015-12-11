@@ -34,6 +34,7 @@ Berhad:
 Besloten vennootschap:
   abbr: B.V.
   lang: nl
+  lead: 1
 'Besloten vennootschap met beperkte aansprakelijkheid':
   abbr: B.V.B.A.
   lang: nl
@@ -46,6 +47,7 @@ Chartered:
 Commanditaire vennootschap:
   abbr: C.V.
   lang: nl
+  lead: 1
 Company:
   abbr:
     - Co.
@@ -93,6 +95,7 @@ eingetragene Verein:
 'Eenpersoons besloten vennootschap met beperkte aansprakelijkheid':
   abbr: E.B.V.B.A.
   lang: nl
+  lead: 1
 'Gesellschaft mit beschränkter Haftung':
   abbr:
     - GmbH
@@ -109,6 +112,7 @@ eingetragene Verein:
     - ГУП
     - GUP
   lang: ru
+  lead: 1
 Handelsbolag:
   abbr: HB
   lang: se
@@ -132,6 +136,7 @@ Incorporated:
     - ИП
     - IP
   lang: ru
+  lead: 1
 'Julkinen osakeyhtiö':
   abbr: Oyj
   lang: fi
@@ -241,11 +246,13 @@ Limited Liability Limited Partnership:
 Maatschap:
   abbr: Mts
   lang: nl
+  lead: 1
 Naamloze vennootschap:
   abbr:
     - N.V.
     - N.V. Nv
   lang: nl
+  lead: 1
 National Association:
   abbr:
     - N.A.
@@ -261,6 +268,7 @@ No Liability:
     - ООО
     - OOO
   lang: ru
+  lead: 1
 offene Gesellschaft:
   abbr: OG
   lang: de
@@ -281,6 +289,7 @@ offene Handelsgesellschaft:
     - ОАО
     - OAO
   lang: ru
+  lead: 1
 Partnerschaftsgesellschaft:
   abbr: PartG
   lang: de
@@ -403,6 +412,12 @@ Sociedad Limitada Laboral:
 Sociedad Limitada Nueva Empresa:
   abbr: S.L.N.E.
   lang: es
+Sociedad Limitada Personal:
+  abbr: S.L.P.
+  lang: es
+Sociedad Limitada Unipersonal:
+  abbr: S.L.U.
+  lang: es
 'Sociedade anônima':
   abbr: S.A.
   lang: pt
@@ -491,17 +506,25 @@ Unlimited Proprietary:
 Vereniging zonder winstoogmerk:
   abbr: VZW
   lang: nl
+  lead: 1
 Vereinigung ohne Gewinnerzielungsabsicht:
   abbr: VoG
   lang: de
-Vennootschap onder firma:
-  abbr: V.O.F.
+Vennootschap:
   lang: nl
+  lead: 1
+Vennootschap onder firma:
+  abbr:
+    - V.O.F.
+    - De vennootschap onder firma
+  lang: nl
+  lead: 1
 'Закрытое акционерное общество':
   abbr:
     - ЗАО
     - ZAO
   lang: ru
+  lead: 1
 'Zártkörűen Működő Részvénytársaság':
   abbr: Zrt.
   lang: hu
