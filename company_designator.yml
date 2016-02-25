@@ -25,9 +25,16 @@ Allmennaksjeselskap:
 Anpartsselskab:
   abbr: ApS
   lang: da
+'Asociación Civil':
+  abbr: A.C.
+  lang: es
 association sans but lucratif:
   abbr: ASBL
   lang: fr
+'Акционерное общество':
+  abbr:
+    - "АО"
+  lang: ru
 Berhad:
   abbr: Bhd.
   lang: ms
@@ -304,6 +311,11 @@ Perseroan Terbatas:
 Perseroan Terbatas Terbuka:
   abbr: PT Tbk
   lang: id
+Private Limited:
+  abbr:
+    - Pte. Ltd.
+    - Pvt. Ltd.
+  lang: en
 Private Limited Company:
   abbr:
     - Pte. Ltd.
@@ -331,6 +343,14 @@ Public Limited Company:
     - plc
     - p.l.c.
   lang: en
+'Публичное акционерное общество':
+  abbr:
+    - "ПАО"
+  lang: ru
+'Публичное общество':
+  abbr:
+    - "ПО"
+  lang: ru
 'Részvénytársaság':
   abbr: Rt.
   lang: hu
@@ -362,6 +382,19 @@ Single Member Private Limited Company:
   lang: es
 'Sociedad Anónima Laboral':
   abbr: S.A.L.
+  lang: es
+'Sociedad Anónima Bursátil de Capital Variable':
+  abbr:
+    - S.A.B.
+    - S.A.B. de C.V.
+  lang: es
+'Sociedad de Ahorro y Prestamo':
+  abbr: S.A.P.
+  lang: es
+'Sociedad Anónima Promotora de Inversion de Capital Variable':
+  abbr:
+    - S.A.P.I.
+    - S.A.P.I. de C.V.
   lang: es
 Sociedad Colectiva:
   abbr:
@@ -422,6 +455,12 @@ Sociedad Limitada Personal:
   lang: es
 Sociedad Limitada Unipersonal:
   abbr: S.L.U.
+  lang: es
+Sociedad Civil Privada:
+  abbr: S.C.P.
+  lang: es
+Sociedad Civil Particular:
+  abbr: S.C.P.
   lang: es
 'Sociedade anônima':
   abbr: S.A.
@@ -507,6 +546,9 @@ Sociedad Limitada Unipersonal:
   lang: pl
 Unlimited Proprietary:
   abbr: Pty.
+  lang: en
+Unlimited Liability Corporation:
+  abbr: ULC
   lang: en
 Vereniging zonder winstoogmerk:
   abbr: VZW
