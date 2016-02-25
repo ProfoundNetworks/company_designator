@@ -34,6 +34,19 @@ necessarily be e.g. both English 'Incorporated' and French 'Incorporée' use
 the abbreviation 'Inc.'.
 
 
+Testing
+-------
+
+First, install some Perl pre-requisites:
+
+    cpan YAML
+    cpan Locales
+
+then run:
+
+    perl t/data.t
+
+
 LICENCE
 -------
 
