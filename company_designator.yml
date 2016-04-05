@@ -520,6 +520,11 @@ Vennootschap onder firma:
     - De vennootschap onder firma
   lang: nl
   lead: 1
+'With Limited Liability':
+  abbr:
+    - W.L.L.
+    - Co. W.L.L.
+  lang: en
 'Закрытое акционерное общество':
   abbr:
     - ЗАО
