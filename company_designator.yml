@@ -97,6 +97,11 @@ eingetragene Verein:
   abbr: E.B.V.B.A.
   lang: nl
   lead: 1
+Empresa Social del Estado:
+  abbr:
+    - E.S.E.
+    - E S.E.
+  lang: es
 'Gesellschaft mit beschränkter Haftung':
   abbr:
     - GmbH
