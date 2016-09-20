@@ -98,9 +98,7 @@ eingetragene Verein:
   lang: nl
   lead: 1
 Empresa Social del Estado:
-  abbr:
-    - E.S.E.
-    - E S.E.
+  abbr: E.S.E.
   lang: es
   lead: 1
 'Gesellschaft mit beschränkter Haftung':
