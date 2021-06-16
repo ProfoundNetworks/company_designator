@@ -491,9 +491,8 @@ Sociedad Civil Particular:
     - SàRL
   lang: fr
 'Société anonyme':
-  abbr:
-    - SA
-    - S.A.
+  abbr_std: SA
+  abbr: S.A.
   lang: fr
 'Société commerciale canadienne':
   abbr: S.C.C.
@@ -592,3 +591,29 @@ Vennootschap onder firma:
 'Zártkörűen Működő Részvénytársaság':
   abbr: Zrt.
   lang: hu
+'有限公司':
+  doc: Corporate group
+  lang: cn
+'有限责任公司':
+  abbr: '有限公司':
+  doc: Company with limited liability
+  lang: cn
+'股份有限公司':
+  doc: Company limited by shares
+  lang: cn
+'合伙企业':
+  doc: Partnership enterprise
+  lang: cn
+'有限合伙企业':
+  abbr: '有限合伙'
+  doc: Limited partnership
+  lang: cn
+'厂':
+  doc: Factory
+  lang: cn
+'总公司':
+  doc: Corporate
+  lang: cn
+'分公司':
+  doc: Branch
+  lang: cn
