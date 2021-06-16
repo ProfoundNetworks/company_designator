@@ -152,11 +152,6 @@ Incorporated:
 'Julkinen osakeyhtiö':
   abbr: Oyj
   lang: fi
-Kabushiki Kaisha:
-  abbr:
-    - K.K.
-    - Corporation K.K.
-  lang: ja
 Kollektivgesellschaft:
   abbr: KolG
   lang: de
@@ -591,9 +586,6 @@ Vennootschap onder firma:
 'Zártkörűen Működő Részvénytársaság':
   abbr: Zrt.
   lang: hu
-'有限公司':
-  doc: Corporate group
-  lang: zh
 '有限责任公司':
   abbr: '有限公司'
   doc: Company with limited liability
@@ -617,3 +609,78 @@ Vennootschap onder firma:
 '分公司':
   doc: Branch
   lang: zh
+'株式会社':
+  abbr:
+    - K.K.
+    - Corporation K.K.
+    - Kabushiki Kaisha
+  doc: stock company
+  lang: ja
+'有限会社':
+  abbr:
+    - Y.K.
+    - Yugen Kaisha
+  doc: limited company
+  lang: ja
+'合同会社':
+  abbr:
+    - G.K.
+    - Godo Kaisha
+  doc: amalgamated company
+  lang: ja
+'合資会社':
+  abbr:
+    - GSK
+    - Goshi Kaisha
+  doc: limited partnership
+  lang: ja
+'合名会社':
+  abbr:
+    - GMK
+    - Gomei Kaisha
+  doc: general partnership
+  lang: ja
+'任意組合':
+  abbr:
+    - NK
+    - "Nin'i Kumiai"
+  doc: general partnership (Civil Code)
+  lang: ja
+'匿名組合':
+  abbr:
+    - TK
+    - Tokumei Kumiai
+  doc: anonymous partnership
+  lang: ja
+'投資事業有限責任組合':
+  abbr: Toshi Jigyo Yugen Sekinin Kumiai
+  doc: limited partnership for investment
+  lang: ja
+'有限責任事業組合':
+  abbr: Yugen Sekinin Jigyo Kumiai
+  doc: limited liability partnership
+  lang: ja
+'주식회사':
+  abbr:
+    - '株式會社'
+    - Jusik Hoesa
+  doc: ~plc (UK)
+  lang: ko
+'유한회사':
+  abbr:
+    - '有限會社'
+    - Yuhan Hoesa
+  doc: ~Ltd (UK)
+  lang: ko
+'합자회사':
+  abbr:
+    - '合資會社'
+    - Hapja Hoesa'
+  doc: limited partnership corporation
+  lang: ko
+'합명회사':
+  abbr:
+    - '合名會社'
+    - Hapmyoung Hoesa
+  doc: general partnership corporation
+  lang: ko
