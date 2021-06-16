@@ -593,27 +593,27 @@ Vennootschap onder firma:
   lang: hu
 '有限公司':
   doc: Corporate group
-  lang: cn
+  lang: zh
 '有限责任公司':
-  abbr: '有限公司':
+  abbr: '有限公司'
   doc: Company with limited liability
-  lang: cn
+  lang: zh
 '股份有限公司':
   doc: Company limited by shares
-  lang: cn
+  lang: zh
 '合伙企业':
   doc: Partnership enterprise
-  lang: cn
+  lang: zh
 '有限合伙企业':
   abbr: '有限合伙'
   doc: Limited partnership
-  lang: cn
+  lang: zh
 '厂':
   doc: Factory
-  lang: cn
+  lang: zh
 '总公司':
   doc: Corporate
-  lang: cn
+  lang: zh
 '分公司':
   doc: Branch
-  lang: cn
+  lang: zh
