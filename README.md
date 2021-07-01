@@ -29,6 +29,14 @@ Each entry is a hash with (some of) the following keys:
   should include periods if they are ever used e.g. L.L.C., not LLC. It is
   expected that libraries will make periods optional where appropriate.
 
+- 'abbr_std' (optional) - an abbreviation that is considered
+  standard/canonical for the entry
+
+- 'lead' (optional) - a boolean flag set if this entry can also occur at
+  the beginning of a name, rather than just at the end
+
+- 'doc' (optional) - a string entry used to document the entry (ignored)
+
 Long corporate designator keys will be unique, but abbreviations may not 
 necessarily be e.g. both English 'Incorporated' and French 'Incorporée' use
 the abbreviation 'Inc.'.
@@ -58,4 +66,3 @@ It includes material from the Wikipedia article
 [Types of business entity](http://en.wikipedia.org/wiki/Types_of_business_entity),
 also released under the
 [http://creativecommons.org/licenses/by-sa/3.0/](Creative Commons Attribution-Share-Alike License 3.0).
-

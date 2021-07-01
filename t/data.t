@@ -24,18 +24,21 @@ ok($data = LoadFile("$Bin/../company_designator.yml"), 'data load ok');
 ok(keys %$data > 0, 'multiple data keys');
 #dd $data;
 
-for my $key (sort keys %$data) {
+for my $long (sort keys %$data) {
   # lang attribute is required
-  ok($data->{$key}->{lang}, "entry for '$key' has 'lang' attribute");
+  ok($data->{$long}->{lang}, "entry for '$long' has 'lang' attribute");
   # lang attribute must be an ISO639 code
-  ok($lang{ $data->{$key}->{lang} }, "lang for '$key' is valid ISO639 code: $data->{$key}->{lang}");
+  ok($lang{ $data->{$long}->{lang} }, "lang for '$long' is valid ISO639 code: $data->{$long}->{lang}");
+  # only allow permitted entry keys
+  my @bad = grep ! /^(lang|abbr|abbr_std|doc|lead)$/, keys %{ $data->{$long} };
+  ok(@bad == 0, @bad ? ("bad keys found for '$long': " . join(',',@bad)) : "no bad keys found for '$long'");
   # abbreviations that contain a period should finish with one
-  if (my $abbr_set = $data->{$key}->{abbr}) {
+  if (my $abbr_set = $data->{$long}->{abbr}) {
     my @abbr = ref $abbr_set ? @$abbr_set : ( $abbr_set );
     for my $abbr (@abbr) {
       next if $embedded_period_exception{$abbr};
       if ($abbr =~ m/\.\w/) {
-        ok(substr($abbr,-1) eq '.', "abbr for '$key' contains embedded period and terminates with one: $abbr");
+        ok(substr($abbr,-1) eq '.', "abbr for '$long' contains embedded period and terminates with one: $abbr");
       }
     }
   }
