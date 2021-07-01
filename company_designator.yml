@@ -1,7 +1,7 @@
 ---
 Aksjeselskap:
   abbr: AS
-  lang: no
+  lang: "no"
 Aktiebolag:
   abbr: AB
   lang: se
@@ -15,7 +15,7 @@ Aktieselskab:
   lang: da
 Allmennaksjeselskap:
   abbr: ASA
-  lang: no
+  lang: "no"
 'Anonim Ortaklık':
   abbr: A.O.
   lang: tr
@@ -718,3 +718,7 @@ Vennootschap onder firma:
     - Hapmyoung Hoesa
   doc: general partnership corporation
   lang: ko
+'شركة':
+  doc: Company
+  lang: ar
+  lead: 1
