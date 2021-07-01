@@ -625,7 +625,8 @@ Vennootschap onder firma:
 '股份有限公司':
   doc: Company limited by shares
   lang: zh
-'合伙企业':
+'合伙企业有限合伙':
+  abbr: '合伙企业'
   doc: Partnership enterprise
   lang: zh
 '有限合伙企业':
@@ -696,14 +697,15 @@ Vennootschap onder firma:
   abbr:
     - '株式會社'
     - Jusik Hoesa
-  doc: ~plc (UK)
+  doc: ~plc (UK) (found no instances in leading position?)
   lang: ko
 '유한회사':
   abbr:
     - '有限會社'
     - Yuhan Hoesa
-  doc: ~Ltd (UK)
+  doc: ~Ltd (UK) (found one instance in leading position, but non-continuous)
   lang: ko
+  lead: 1
 '합자회사':
   abbr:
     - '合資會社'
