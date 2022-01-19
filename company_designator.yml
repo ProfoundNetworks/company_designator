@@ -44,6 +44,21 @@ association sans but lucratif:
     - "АД"
     - AD
   lang: bg
+'Дружество с Ограничена Отговорност':
+  abbr:
+    - "ООД"
+    - OOD
+  lang: bg
+'Еднолично Акционерно Дружество':
+  abbr:
+    - "ЕАД"
+    - EAD
+  lang: bg
+'Еднолично Дружество с Ограничена Отговорност':
+  abbr:
+    - "ЕООД"
+    - EOOD
+  lang: bg
 'Акціонерне Товариство':
   abbr:
     - "АТ"
@@ -91,6 +106,7 @@ Commanditaire vennootschap:
   lang: nl
   lead: Y
 Company:
+  abbr_std: Company
   abbr:
     - Co.
     - '& Co.'
@@ -184,6 +200,8 @@ Empresa Social del Estado:
   abbr_std: GmbH
   abbr:
     - GmbH
+    - GmbH & Co.
+    - GmbH und Co.
     - m.b.H.
     - Ges.m.b.H.
     - Gesellschaft m.b.H.
@@ -265,8 +283,10 @@ Kommanditaktiengesellschaft:
     - KomAG
   lang: de
 Kommanditgesellschaft:
+  abbr_std: KG
   abbr:
     - KG
+    - KG GmbH & Co.
     - 'GmbH & Co. KG'
     - 'GmbH und Co. KG'
     - 'mbH & Co. KG'
