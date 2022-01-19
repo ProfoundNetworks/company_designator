@@ -1,3 +1,8 @@
+Akciju sabiedrība:
+  abbr:
+    - AS
+  lang: lv
+  lead: Y
 Aksjeselskap:
   abbr:
     - AS
@@ -525,6 +530,9 @@ Shoqeri me pergjegjesi te kufizuar:
   abbr:
     - Sh.p.k.
   lang: sq
+SIA:
+  lang: lv
+  lead: Y
 Single Member Private Limited Company:
   abbr:
     - SM Pte. Ltd.
