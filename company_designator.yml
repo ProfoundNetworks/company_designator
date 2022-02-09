@@ -682,8 +682,11 @@ Sociedad Civil Particular:
   lang: it
 'Société à responsabilité limitée':
   abbr:
+    - S.à r.l.
+    - S.À.R.L.
     - S.A.R.L.
     - SàRL
+    - SRL
   lang: fr
 'Société anonyme':
   abbr_std: SA
@@ -755,6 +758,9 @@ Sociedad Civil Particular:
     - Sp. z o.o.
     - Sp. z o.o. Sp.k.
     - Sp. z o.o. S.K.A.
+    - Sp. z.o.o.
+    - Sp. z.o.o. Sp.k.
+    - Sp. z.o.o. S.K.A.
     - Sp. zo.o.
     - Sp. zo.o. Sp.k.
     - Sp. zo.o. S.K.A.
